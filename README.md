@@ -18,6 +18,8 @@ White: Cartoon and Ala
 
 Yellow-green (lime): Cys
 
+This coloring is used to visualize the presence of exposed hydrophobic and buried hydrophilic residues, the position of Gly and Pro, and the distribution of positive and negative charged residues.
+
 ## Usage
 ```
 # PyMOL command line
