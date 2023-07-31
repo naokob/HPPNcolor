@@ -27,6 +27,6 @@ PyMOL> run /path/to/HPPNcolor_v1.pml
 menubar "File" ---> "Run Script..." ---> Select "HPPNcolor_v1.pml" ---> "Open"
 ```
 
-p align="center">
-  img src="./img/hppn_image.png" alt="alt text" width="1100px" align="middle"/>
+<p align="center">
+  <img src="./img/hppn_image.png" alt="alt text" width="1100px" align="middle"/>
 /p>
