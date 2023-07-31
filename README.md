@@ -1,6 +1,6 @@
 # HPPNcolor
 
-"HPPNcolor_v1.pml" is a PyMOL script that colors residues based on <ins>H</ins>ydrophobicity/<ins>P</ins>olarity, <ins>P</ins>ositive/<ins>N</ins>egative charge, and main-chain dihedral characteristics (Pro, Gly). It colors 20 different amino acid residues as shown below.
+"HPPNcolor_v1.pml" is a PyMOL script that colors residues based on <ins>H</ins>ydrophobicity/<ins>P</ins>olarity, <ins>P</ins>ositive/<ins>N</ins>egative charge, and and residues　　(Pro, Gly) with unique main-chain dihedral angles. It colors 20 different amino acid residues as shown below.
 
 Yellow: Val, Ile, Leu, Phe, Tyr, Trp, Met
 
