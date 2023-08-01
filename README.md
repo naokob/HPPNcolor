@@ -29,6 +29,11 @@ PyMOL> run /path/to/HPPNcolor_v1.pml
 menubar "File" ---> "Run Script..." ---> Select "HPPNcolor_v1.pml" ---> "Open"
 ```
 
+Since the backbone of cartoon representation is forced to be white, if you want to change the color, please use the following command to unset "cartoon_color".
+```
+unset cartoon_color, (all)
+```
+
 <p align="center">
   <img src="./img/hppn_image.png" alt="alt text" width="1100px" align="middle"/>
 </p>
