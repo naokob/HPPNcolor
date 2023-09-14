@@ -52,5 +52,7 @@ disable Gs
 disable Ps
 disable As
 disable Cs
-set cartoon_color, white
-set cartoon_color, tv_green, Gs
+color white, name ca
+color tv_green, name ca and Gs
+#set cartoon_color, white
+#set cartoon_color, tv_green, Gs
