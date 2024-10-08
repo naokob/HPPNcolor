@@ -44,4 +44,5 @@ JalView menu bar ---> Colour ---> User defined... ---> Load scheme
 
 <p align="center">
   <img src="./img/hppn_image.png" alt="alt text" width="1100px" align="middle"/>
+  <img src="./img/jalview_hppn.png" alt="alt text" width="1100px" align="middle"/>
 </p>
