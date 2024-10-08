@@ -36,6 +36,12 @@ PyMOL> unset cartoon_color
 PyMOL> unset cartoon_color, (all)
 ```
 
+“HPPNcoloring.jc” is a color scheme file for JalView ( https://www.jalview.org/ ). It can be used to color sequence alignments based on the HPPNcolor.
+```
+# JalView software 
+JalView menu bar ---> Colour ---> User defined... ---> Load scheme
+```
+
 <p align="center">
   <img src="./img/hppn_image.png" alt="alt text" width="1100px" align="middle"/>
 </p>
