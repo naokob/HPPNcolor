@@ -36,6 +36,13 @@ PyMOL> unset cartoon_color
 PyMOL> unset cartoon_color, (all)
 ```
 
+You can add the `hppn` command to PyMOL by executing “hppn.py”.
+```
+# PyMOL command line
+PyMOL> run /path/to/hppn.py
+PyMOL> hppn
+```
+
 “HPPNcoloring.jc” is a color scheme file for JalView ( https://www.jalview.org/ ). It can be used to color sequence alignments based on the HPPNcolor.
 ```
 # JalView software 
